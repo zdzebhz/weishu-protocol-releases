@@ -1,0 +1,17 @@
+{
+  "result": "OK",
+  "releaseId": "v1.4-20261027.3",
+  "anonymousNetwork": true,
+  "realProductionPortGuards": true,
+  "playerInstallationModified": false,
+  "extractedFiles": 4052,
+  "extractedBytes": 1302779385,
+  "manifestSha256": "ceb4bff390268ad4f9b1e64393002f398cfbe7d219aff2f3b658b2810da32360",
+  "p2pBuild": "d11a149512ab124a138fd2db0ecb34de3520925231aa8e6ec27c2cb4d4449ba6",
+  "archiveSha256": "6c77aede26d5cd7aa38ae3b14d512121d722b3d8e82ca1f2076c72ac9fcabfcd",
+  "privateFixturesPreserved": 9,
+  "downloadedInstalledAndRechecked": true,
+  "noDownloadTempRemaining": true,
+  "temporaryRuntimeRemoved": true,
+  "seconds": 148.89
+}
