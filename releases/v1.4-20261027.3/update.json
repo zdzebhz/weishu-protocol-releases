@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "repository": "zdzebhz/weishu-protocol-releases",
+  "releaseId": "v1.4-20261027.3",
+  "sequence": 2026102703,
+  "displayVersion": "1.4（修订 20261027.3，统一升级版）",
+  "manifestSha256": "ceb4bff390268ad4f9b1e64393002f398cfbe7d219aff2f3b658b2810da32360",
+  "archive": {
+    "name": "weishu-update-v1.4-20261027.3.zip",
+    "bytes": 326158437,
+    "sha256": "6c77aede26d5cd7aa38ae3b14d512121d722b3d8e82ca1f2076c72ac9fcabfcd",
+    "unpackedBytes": 438002626
+  }
+}
